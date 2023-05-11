@@ -6,10 +6,10 @@ Här är mitt äventyrspel med text GUI
 Detta projekt använder:
 - <a href="https://github.com/Xtarii/PythonStylePack">Styles</a>
 - Keyboard: pip install keyboard
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <h1>OBS:</h1>
 Projektet startar när man startar "main.py", och det krväs
 att alla filer/filsystemet som hör till spelet är uppbygt
